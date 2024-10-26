@@ -1,7 +1,8 @@
 # sd-2024-team2
 Software Development Course-2024-Team2# 
 
-Django Starter Project  
+
+# Django Starter Project  
 
 This is a basic Django starter project designed for learning purposes. It includes user authentication (using Django Allauth), a simple home page, and a protected dashboard with notifications. This project serves as an introduction to Django’s core concepts, such as views, templates, authentication, and static files.
 
@@ -138,6 +139,13 @@ This project is open-source and available under the [MIT License](https://openso
 
 ---
 
+## Contribution
+
+Feel free to fork the repository, open issues, or submit pull requests to improve this project.
+
+---
+
+Happy coding! 🎉
 ## Contribution
 
 Feel free to fork the repository, open issues, or submit pull requests to improve this project.
