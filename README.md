@@ -146,10 +146,3 @@ Feel free to fork the repository, open issues, or submit pull requests to improv
 ---
 
 Happy coding! 🎉
-## Contribution
-
-Feel free to fork the repository, open issues, or submit pull requests to improve this project.
-
----
-
-Happy coding! 🎉
