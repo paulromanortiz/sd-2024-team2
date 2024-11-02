@@ -21,3 +21,12 @@ from django.urls import path
 urlpatterns = [
     path("admin/", admin.site.urls),
 ]
+
+#update URLs
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.home, name='home'),
+    path('dashboard/', views.dashboard, name='dashboard'),
+]
